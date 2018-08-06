@@ -5,4 +5,4 @@ test-main.o: test-main.cpp
  g++ -c test-main.cpp
  
 clean:
- rm rf test.exe *.o
+ rm -rf test.exe *.o
