@@ -28,7 +28,7 @@
 	                        <goal>exec</goal>
 	                     </goals>
 	                     <configuration>
-	                        <workingDirectory>source</workingDirectory>
+	                        <workingDirectory>.</workingDirectory>
 	                        <executable>make</executable>
 	                     </configuration>
 	                 </execution>
