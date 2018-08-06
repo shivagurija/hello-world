@@ -1,6 +1,6 @@
 	<project>
 		
-	   <modelversion>1.0.0</modelversion>
+	   <modelVersion>1.0.0</modelVersion>
 	 
 	   <groupId>edge</groupId>
 	   <artifactId>hello-world</artifactId>
