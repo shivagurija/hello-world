@@ -1,14 +1,13 @@
 #include<iostream>
+#include "CBasicMath.h"
 using namespace std;
 
-int add(int a,int b)
-{
-return a+b;
-}
 
 int main()
 {
 cout<<"Hello World"<<endl;
-cout<<add(2,3)<<endl;
+
+CBasicMath o;
+cout<<o.Addition(2,3)<<endl;
 return 0;
 }
